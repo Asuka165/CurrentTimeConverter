@@ -5,6 +5,8 @@
 //			format : format that going to output
 //				"DB_date" 	: Database format for "date" type of data.
 //				"DB_datetime" 	: Database format for "datetime" or "timestamp" data
+//=================================================================================================================
+// + Return : Current time in requested format
 //#################################################################################################################
 function GetCurrentTime(format){
 	
